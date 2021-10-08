@@ -1,0 +1,56 @@
+[
+    {
+        "title": "Frieze — London",
+        "subtitle": "Arne Quinze builds Lupine Tower for Frieze Sculpture, Regent's Park",
+        "description": "This year, Frieze Sculpture returns to The Regent’s Park from 5 – 18 October, featuring 12 ambitious works by leading international artists throughout the park’s English Gardens.",
+        "cover": "189aafca286ca558f1d155bbee5b3605.jpg",
+        "linkType": "press release",
+        "link" : null,
+        "release" : true
+    },
+    {
+        "title": "The Beautiful Dreamer — Paris",
+        "subtitle": "The first permanent public art sculpture by Arne Quinze in France",
+        "description": "Arne Quinze continues his journey to reshape our cities into more human environments with this public sculpture in Paris ‘The Beautiful Dreamer’. Curated by Artbliss Paris, Viparis commissioned Arne Quinze to intervene in their Porte De Versailles project. Paris — Porte De Versailles is a sustainable (re)development project of Expo Paris, a new exposition area in the city, including:",
+        "cover": "c36fde3613c7a022551d69792c869802.jpg",
+        "linkType" : "press release",
+        "link" : null,
+        "release" : true
+    },
+    {
+        "title": "My secret Garden — Valencia",
+        "subtitle": "Arne Quinze press release",
+        "description": "“My Secret Garden Valencia” presents a series of six public sculptures that will enter into dialogue with the powerful architecture of Santiago Calatrava. Each sculpture of the series addresses the rich diversity of forms, structures and colours found in the Plantea. With “My Secret Garden Valencia”, Arne Quinze calls for a more profound dialogue between nature and culture in the development of our modern society. By challenging his public with unconventional sculptures, he encourages a sociocultural conversation that stimulates creativity and embraces diversity.",
+        "cover": "c29cf9d42747aadbb48f71a2b2c60b62.jpg",
+        "linkType" : "press release",
+        "link" : null,
+        "release" : true
+    },
+    {
+        "title": "Financial Times about Frieze Sculpture",
+        "subtitle": "Frieze Sculpture Park opens its doors to nature",
+        "description": "An upbeat free-to-wander exhibition combines playfulness with serious concerns of contemporary",
+        "cover": "189aafca286ca558f1d155bbee5b3605.jpg",
+        "linkType" : "article",
+        "link" : "189aafca286ca558f1d155bbee5b3605.jpg",
+        "release" : false
+    },
+    {
+        "title": "My Secret Garden, Valencia — Extended",
+        "subtitle": "Visit Arne Quinze's Secret Garden until the 1st of March",
+        "description": "Since February 2019, the open-air exhibition of Arne Quinze already attracted 3 million visitors!",
+        "cover": "ee769c0b3901af4213048470e8948681.jpg",
+        "linkType" : "website",
+        "link" : "http://www.viuvalencia.com/articulo/exposicion_valencia_febrero_gratis/590621076",
+        "release" : false
+    },
+    {
+        "title": "DJ Lefto in our studio",
+        "subtitle": "An inspirational tour with Belgian most famous hip hop DJ",
+        "description": "In this RTBF series, Hadja Lahbib follows Lefto visiting some of his friends artists and",
+        "cover": "2a35fce49621dd4792df7ddb4692129c.jpg",
+        "linkType" : "website",
+        "link" : "https://www.rtbf.be/auvio/detail_tout-le-baz-art?id=2576946&jwsource=fb",
+        "release" : false
+    }
+]
